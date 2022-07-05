@@ -3,28 +3,24 @@ import './TodoItem.css';
 
 function TodoItem(props) {
 
-    const onComplete = () => {
-        alert('Ya completaste el todo ' + props.text_content);
-    }
-
-    const onDelete = () => {
-        alert('Borraste el todo' + props.text_content);
-    }
-
   return (
     <li className="TodoItem">
       <span 
         className={`Icon Icon-check ${props.completed && 'Icon-check--active'}`}
-        onClick={onComplete}
+        onClick={props.onComplete}
       >
         √
       </span>
-      <p className={`TodoItem-p ${props.completed && 'TodoItem-p--complete'}`}>
-        {props.text_content}
-      </p>
+      <input 
+      className={
+        `TodoItem-p ${props.completed && 'TodoItem-p--complete'}`
+        }
+      value={props.text_content}
+      readOnly
+      />
       <span 
         className="Icon Icon-delete"
-        onClick={onDelete}
+        onClick={props.onDelete}
         >
         X
       </span>
