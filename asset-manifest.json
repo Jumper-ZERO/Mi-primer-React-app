@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Jumper-ZERO/Mi-primer-React-app.git/static/css/main.fef88b4f.css",
-    "main.js": "/Jumper-ZERO/Mi-primer-React-app.git/static/js/main.16763b6a.js",
-    "index.html": "/Jumper-ZERO/Mi-primer-React-app.git/index.html",
-    "main.fef88b4f.css.map": "/Jumper-ZERO/Mi-primer-React-app.git/static/css/main.fef88b4f.css.map",
-    "main.16763b6a.js.map": "/Jumper-ZERO/Mi-primer-React-app.git/static/js/main.16763b6a.js.map"
+    "main.css": "/Mi-primer-React-app/static/css/main.fef88b4f.css",
+    "main.js": "/Mi-primer-React-app/static/js/main.16763b6a.js",
+    "index.html": "/Mi-primer-React-app/index.html",
+    "main.fef88b4f.css.map": "/Mi-primer-React-app/static/css/main.fef88b4f.css.map",
+    "main.16763b6a.js.map": "/Mi-primer-React-app/static/js/main.16763b6a.js.map"
   },
   "entrypoints": [
     "static/css/main.fef88b4f.css",
