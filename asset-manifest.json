@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jumper-ZERO/Mi-primer-React-app.git/static/css/main.fef88b4f.css",
+    "main.js": "/Jumper-ZERO/Mi-primer-React-app.git/static/js/main.16763b6a.js",
+    "index.html": "/Jumper-ZERO/Mi-primer-React-app.git/index.html",
+    "main.fef88b4f.css.map": "/Jumper-ZERO/Mi-primer-React-app.git/static/css/main.fef88b4f.css.map",
+    "main.16763b6a.js.map": "/Jumper-ZERO/Mi-primer-React-app.git/static/js/main.16763b6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef88b4f.css",
+    "static/js/main.16763b6a.js"
+  ]
+}
